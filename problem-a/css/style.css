@@ -1,0 +1,20 @@
+/* set the default font size and font-family for the body */
+body {
+    font-size: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* style the line height to be 1.5 times the font size */
+p {
+    line-height: 1.5;
+}
+
+/* sets the image heights to 400px */
+img {
+    max-height: 400px;
+}
+
+/* highlight an important list item */
+.highlighted {
+    color: #db1919;
+}
